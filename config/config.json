@@ -1,0 +1,6 @@
+{
+   "name" : "Admin",
+   "email" : "admin@gmail.com",
+   "password" : "Admin123",
+   "secret" : "WaveOptics"
+}
